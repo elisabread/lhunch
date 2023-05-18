@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@types/node": "^20.1.7",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
